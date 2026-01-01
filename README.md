@@ -23,4 +23,4 @@ uv pip install -r pyproject.toml
 - Split into Train(80%) and Test(20%)
 - Scale numeric features
 - Train & evaluate models
-- Save best model
+- Save best model.
