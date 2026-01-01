@@ -1,4 +1,4 @@
-# Week 3 — Machine Learning Project (Real Estate Price Prediction)
+# Week 3 — Machine Learning Projects
 
 ## Setup:
 
